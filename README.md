@@ -68,8 +68,8 @@ whoami
 ### ⟡ stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FebryWesker&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&text_color=666666&icon_color=777777&ring_color=555555" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryWesker&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&text_color=666666" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vandebry10-star &show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&text_color=666666&icon_color=777777&ring_color=555555" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandebry10-star &layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&text_color=666666" height="150" />
 </div>
 
 ---
