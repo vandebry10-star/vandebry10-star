@@ -34,9 +34,9 @@
 | project | description |
 |---|---|
 | **Wesker-MD & Azbry-MD** | WhatsApp bot berbasis Baileys — plugin modular, hot-reload, pairing code auth |
-| **Marketplace** · [azbry.xyz](https://azbry.xyz) | Azbry-MD and Nokos Indonesia script sales website |
-| **Jadibot** · [jadibot.azbry.xyz](https://jadibot.azbry.xyz) | Bot-as-a-Service platform — Express · Socket.IO · Supabase **[ OFF ]** | 
-| **Azbry REST API** · [api.azbry.xyz](https://api.azbry.xyz) | free endpoint: downloader, tools, AI, TTP, remove bg, HD upscale and more.. |
+| **Marketplace** · [azbry.xyz](https://azbry.com) | Azbry-MD and Nokos Indonesia script sales website |
+| **Jadibot** · [jadibot.azbry.xyz](https://jadibot.azbry.com) | Bot-as-a-Service platform — Express · Socket.IO · Supabase **[ OFF ]** | 
+| **Azbry REST API** · [api.azbry.xyz](https://api.azbry.com) | free endpoint: downloader, tools, AI, TTP, remove bg, HD upscale and more.. |
 | **CF Solver** · [cf.wesker.web.id](https://cf.wesker.web.id) | Cloudflare challenge solver — puppeteer stealth · turnstile support |
 
 ---
