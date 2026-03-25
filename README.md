@@ -33,6 +33,7 @@
 
 | project | description |
 |---|---|
+| **Portfolio** · [feb.azbry.com](https://feb.azbry.com) | A little introduction about me through my portfolio website |
 | **Wesker-MD & Azbry-MD** | WhatsApp bot berbasis Baileys — plugin modular, hot-reload, pairing code auth |
 | **Marketplace** · [azbry.com](https://azbry.com) | Azbry-MD and Nokos Indonesia script sales website |
 | **Jadibot** · [jadibot.azbry.com](https://jadibot.azbry.com) | Bot-as-a-Service platform — Express · Socket.IO · Supabase **[ OFF ]** | 
